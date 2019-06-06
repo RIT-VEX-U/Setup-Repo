@@ -1,0 +1,5 @@
+This "Setup-Repo" is a test repository that will allow you to learn the basics of Git.
+
+In this repository, create a new file named "first_last.txt". You should then commit and push the file to the remote repository.
+
+After doing so, you can verify that everything worked by going to GitHub online and you should see your file in the "Setup-Repo".
